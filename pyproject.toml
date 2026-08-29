@@ -36,8 +36,8 @@ dev = ["pytest", "black", "ruff"]
 shipit = "shipit_os.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/shipit-os/shipit-os"
-Repository = "https://github.com/shipit-os/shipit-os"
+Homepage = "https://github.com/jangalacharansaisri963-eng/shipit-os"
+Repository = "https://github.com/jangalacharansaisri963-eng/shipit-os"
 
 [tool.setuptools.packages.find]
 where = ["."]
